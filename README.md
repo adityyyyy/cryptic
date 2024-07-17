@@ -1,6 +1,6 @@
 # cryptic
 
-This is a simple cli gcm standards encryption and decryption tool.
+This is a simple cli gcm standards encryption and decryption tool.\n
 To use it simply git clone this repo.
 cd in the repo.
 go build.
